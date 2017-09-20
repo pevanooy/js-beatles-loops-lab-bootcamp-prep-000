@@ -19,5 +19,10 @@ function iLoveTheBeatles(n){
   if(n===17){
     myArray.push("I love the Beatles!")
   }
+  else if (n==7) {
+    for (var i = 0; n <= 7; i++){
+      myArray.push("I love the Beatles!")
+    }
+  }
   return myArray;
 }
