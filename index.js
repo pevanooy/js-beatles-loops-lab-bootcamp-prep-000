@@ -14,3 +14,10 @@ function johnLennonFacts(facts){
     }
     return facts
 }
+function iLoveTheBeatles(n){
+  var myArray = []
+  if(n===17){
+    myArray.push("I love the Beatles!")
+  }
+  return myArray;
+}
