@@ -20,7 +20,7 @@ function iLoveTheBeatles(n){
     myArray.push("I love the Beatles!")
   }
   else if (n==7) {
-    for (var i = 0; n <= 7; i++){
+    for (var i = 0; i <= n; i++){
       myArray.push("I love the Beatles!")
     }
   }
